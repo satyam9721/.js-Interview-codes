@@ -14,3 +14,7 @@ Hi, my name is Satyam Gupta. I started my career as a Backend Developer at Jio, 
 Currently, I’m working as a Full Stack Developer at Sphere Global with around 2+ years of experience, building enterprise applications using the MERN stack and deploying them on AWS with CI/CD pipelines.
 
 I enjoy building scalable systems and solving real-world problems, especially in backend and cloud technologies.
+
+`For DSA Questions`
+
+https://www.geeksforgeeks.org/dsa/lmns-data-structures/
