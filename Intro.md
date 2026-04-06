@@ -15,6 +15,10 @@ Currently, I’m working as a Full Stack Developer at Sphere Global with around 
 
 I enjoy building scalable systems and solving real-world problems, especially in backend and cloud technologies.
 
+`Reason for looking for a new opportunity` - 
+I am actively exploring new roles as my current organization is planning to shut down due to the absence of projects. This has motivated me to look for stable and growth-oriented opportunities where I can contribute effectively.
+
+
 `For DSA Questions`
 
 https://www.geeksforgeeks.org/dsa/lmns-data-structures/
