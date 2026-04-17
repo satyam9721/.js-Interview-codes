@@ -30,3 +30,17 @@ What is a Health Check?
 Answer:
 
 A health check endpoint (like /health) ensures the server is running and responsive.
+	
+How do you improve API performance?
+
+Answer:
+	•	Use caching (Redis)
+	•	Optimize DB queries
+	•	Add pagination
+	•	Use indexing
+	•	Avoid unnecessary data
+
+What is Database Indexing?
+
+Answer:
+Indexing improves query performance by allowing faster data retrieval instead of full table scans.
